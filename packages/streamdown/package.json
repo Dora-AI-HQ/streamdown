@@ -1,6 +1,6 @@
 {
   "name": "@dora-ai/streamdown",
-  "version": "2.5.0-animate-patch-1",
+  "version": "2.5.0-animate-patch-2",
   "type": "module",
   "main": "./dist/index.js",
   "module": "./dist/index.js",
